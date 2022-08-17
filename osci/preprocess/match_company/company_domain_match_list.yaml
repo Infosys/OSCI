@@ -1821,3 +1821,15 @@
     - digitalocean.com
   regex:
   industry: Technology
+- company: Infosys Ltd
+  domains:
+    - infosys.com
+  regex:
+  industry: Technology
+- company: Edgeverve Ltd
+  domains:
+    - edgeverve.com
+  regex:
+  industry: Technology
+
+  
